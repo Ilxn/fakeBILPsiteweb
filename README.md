@@ -1,3 +1,5 @@
 # BILPsiteweb
-fake website
-22/11/20
+
+Page d'accueil d'une boutique en ligne
+
+Créée pour le *fun*
