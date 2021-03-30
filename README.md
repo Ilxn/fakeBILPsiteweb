@@ -1,4 +1,4 @@
-# BILPsiteweb
+# BILP e-shop
 
 Page d'accueil d'une boutique en ligne
 
