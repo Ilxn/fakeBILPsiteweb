@@ -3,6 +3,24 @@
 ###### Page d'accueil d'une boutique en ligne
 
 
+
+
+
+
+
+
+
+<span>
+
+
+
+
+
+
+
+
+
+
 ##### BILP, marque créée pour le *fun*
 
 <hr>
