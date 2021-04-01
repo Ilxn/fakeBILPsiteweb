@@ -1,9 +1,9 @@
 # BILP e-shop
 
-Page d'accueil d'une boutique en ligne
+###### Page d'accueil d'une boutique en ligne
 
 
-BILP, marque créée pour le *fun*
+##### BILP, marque créée pour le *fun*
 
 <hr>
 <h3>Liens:</h3>
